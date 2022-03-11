@@ -1,0 +1,27 @@
+h1{
+	color: red;
+}
+.homework{
+	color: #fff;
+	background: blue;
+	width: 100px;
+	height: 75px;
+	margin-bottom: 70px;
+}
+span{
+	color: red;
+}
+h2{
+	background: green;
+	color: #fff;
+}
+.skill{
+	padding: 40px 30px;
+}
+.list{
+	margin-left: 100px;
+}
+li {
+	font-size: 25px;
+	border: 1px solid black;
+}
